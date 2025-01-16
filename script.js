@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
           const puzzleContainer = document.getElementById("puzzle-container");
       
           // Image URL (you can replace this with your own image)
-          const imageUrl = "fan_art.jpg"; // Replace with the puzzle image path
+          const imageUrl = "./images/fan_art.jpg"; // Replace with the puzzle image path
       
           // Pieces metadata
           const pieces = [
